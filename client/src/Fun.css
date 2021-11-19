@@ -1,0 +1,10 @@
+.menuCards {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 100px;
+}
+
+#menuCards:hover {
+  background-color: whitesmoke;
+  transition-duration: 0.5s;
+}
